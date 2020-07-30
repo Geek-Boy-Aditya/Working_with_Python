@@ -14,9 +14,14 @@ Today I learned About :
 ## Day 3
 Today I learned About :
 
-   1.Taking input in Python.
-   2.Taking input from console in Python.
-   3.Taking multiple inputs from user in Python.
+ 1.Taking input in Python.
+ 2.Taking input from console in Python.
+ 3.Taking multiple inputs from user in Python.
+ 4.Python Output using print() function.
+ 5.How to print without newline in Python.
+ 6.Python end parameter in print().
+ 7.Python sep parameter in print().
+
   
   
   
