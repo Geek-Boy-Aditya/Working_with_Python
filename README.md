@@ -12,4 +12,6 @@ Today I learned About :
  2. Namespaces in Python
 
 ## Day 3
-
+Today I learned About :
+  
+  
