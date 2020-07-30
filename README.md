@@ -10,3 +10,6 @@ Today I learned About :
 
  1. Python  Development and Application.
  2. Namespaces in Python
+
+## Day 3
+
