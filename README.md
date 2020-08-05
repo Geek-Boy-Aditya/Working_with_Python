@@ -21,6 +21,16 @@ Today I learned About :
  5. How to print without newline in Python.
  6. Python end parameter in print().
  7. Python sep parameter in print().
+ 
+ ## Day 4 
+ Today I learned About  Basic OF Control Flow Statement in Python:
+ 
+ 1. While 
+ 2. If else 
+ 3. for loop
+ 4. Nested Loop
+ 
+ 
 
   
   
